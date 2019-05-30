@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bible_commentary/static/css/main.6e5edbf2.chunk.css",
+    "main.js": "/bible_commentary/static/js/main.26048a2e.chunk.js",
+    "main.js.map": "/bible_commentary/static/js/main.26048a2e.chunk.js.map",
+    "runtime~main.js": "/bible_commentary/static/js/runtime~main.95e5ced6.js",
+    "runtime~main.js.map": "/bible_commentary/static/js/runtime~main.95e5ced6.js.map",
+    "static/js/2.fb03e36a.chunk.js": "/bible_commentary/static/js/2.fb03e36a.chunk.js",
+    "static/js/2.fb03e36a.chunk.js.map": "/bible_commentary/static/js/2.fb03e36a.chunk.js.map",
+    "index.html": "/bible_commentary/index.html",
+    "precache-manifest.b28fbf959cabb51f62d285dbcdc1d674.js": "/bible_commentary/precache-manifest.b28fbf959cabb51f62d285dbcdc1d674.js",
+    "service-worker.js": "/bible_commentary/service-worker.js",
+    "static/css/main.6e5edbf2.chunk.css.map": "/bible_commentary/static/css/main.6e5edbf2.chunk.css.map"
+  }
+}
