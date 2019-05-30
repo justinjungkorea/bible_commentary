@@ -63,7 +63,7 @@ class App extends Component{
         <p align="left" id="notice">
           파일은 sermon-online.com에서 가져왔으며 오류 및 수정은 메일로 알려주시기 바랍니다.
         </p>
-        <button id="mail"><a href="mailto:jungdw0624@gmail.com" >메일보내기</a></button>
+        <button id="mail"><a href="mailto:jungdw0624@gmail.com" >메일</a></button>
       </div>
     )
   }
