@@ -1,10 +1,12 @@
 import React, { Component } from 'react';
 import './App.css';
 import book from "./book.json";
+import { Redirect } from "react-router-dom";
 
 class App extends Component{
   state = {
-    data: []
+    data: [],
+    no: null
   }
 
   _loadingOT = () => {
@@ -13,9 +15,9 @@ class App extends Component{
       temp.push(book.data[0].books.old_testment[i]);
     }
     this.setState({
-      data : temp
+      data: temp,
+      no: 1
     });
-    console.log(this.state.data.length);
   };
 
   _loagingNT = () => {
@@ -24,7 +26,8 @@ class App extends Component{
       temp.push(book.data[0].books.new_testment[i]);
     }
     this.setState({
-      data: temp
+      data: temp,
+      no: 2
     });
   }
 
@@ -38,7 +41,11 @@ class App extends Component{
   };
 
   _selectBook = event => {
-    let n = event.target.id;
+    let n = event.target.id-1;
+    if(this.state.no === 2){
+      n = n-6;
+    }
+    window.location.assign(this.state.data[n].link);
   };
 
   render(){
@@ -53,6 +60,9 @@ class App extends Component{
         <div className="books">
           {this.state.data.length!==0 ? this._displayData() : null}
         </div>
+        <p align="left" id="notice">
+          파일은 sermon-online.com에서 가져왔으며 오류 및 수정은 jungdw0624@gmail.com으로 알려주시기 바랍니다.
+        </p>
       </div>
     )
   }
