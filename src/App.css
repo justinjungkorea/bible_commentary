@@ -1,4 +1,4 @@
-#ot,#nt {
+#ot,#nt,#mail {
   background: #53c1ff;
   color: #fff;
   border: 1px solid #fff;
@@ -11,7 +11,7 @@
   margin:10px;
 }
 
-#ot:hover,#nt:hover, #ot:active:focus, #nt:active {
+#ot:hover,#nt:hover, #ot:active:focus, #nt:active, #mail:hover, #mail:active {
   background: #016abc;
   color: #fff;
   border: 1px solid #eee;
