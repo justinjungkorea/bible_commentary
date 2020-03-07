@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bible_commentary/static/css/main.9de85575.chunk.css",
-    "main.js": "/bible_commentary/static/js/main.e3d4a1a5.chunk.js",
-    "main.js.map": "/bible_commentary/static/js/main.e3d4a1a5.chunk.js.map",
+    "main.js": "/bible_commentary/static/js/main.f0154c5f.chunk.js",
+    "main.js.map": "/bible_commentary/static/js/main.f0154c5f.chunk.js.map",
     "runtime~main.js": "/bible_commentary/static/js/runtime~main.95e5ced6.js",
     "runtime~main.js.map": "/bible_commentary/static/js/runtime~main.95e5ced6.js.map",
     "static/js/2.fb03e36a.chunk.js": "/bible_commentary/static/js/2.fb03e36a.chunk.js",
     "static/js/2.fb03e36a.chunk.js.map": "/bible_commentary/static/js/2.fb03e36a.chunk.js.map",
     "index.html": "/bible_commentary/index.html",
-    "precache-manifest.d32ecaffd40e7433c30722f18381decb.js": "/bible_commentary/precache-manifest.d32ecaffd40e7433c30722f18381decb.js",
+    "precache-manifest.fba216822ff1e9861d07589b66548687.js": "/bible_commentary/precache-manifest.fba216822ff1e9861d07589b66548687.js",
     "service-worker.js": "/bible_commentary/service-worker.js",
     "static/css/main.9de85575.chunk.css.map": "/bible_commentary/static/css/main.9de85575.chunk.css.map"
   }
