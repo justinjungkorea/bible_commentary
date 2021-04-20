@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a74f7f8bb01294018cf8aea1fb73777",
+    "revision": "46342806648d7c5e917948bafb838666",
     "url": "/bible_commentary/index.html"
   },
   {
-    "revision": "e5ee4f3ffe4c586403bc",
+    "revision": "8f34534df6661fecef67",
     "url": "/bible_commentary/static/css/main.9de85575.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bible_commentary/static/js/2.fb03e36a.chunk.js"
   },
   {
-    "revision": "e5ee4f3ffe4c586403bc",
-    "url": "/bible_commentary/static/js/main.f0154c5f.chunk.js"
+    "revision": "8f34534df6661fecef67",
+    "url": "/bible_commentary/static/js/main.71be793d.chunk.js"
   },
   {
     "revision": "b051040a3a9725922930",
